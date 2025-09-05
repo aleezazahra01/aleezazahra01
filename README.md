@@ -1,5 +1,8 @@
 # Hi there 👋
-## I know Python ,MongoDB and C for now.
+## I code as a hobby.
+
+I know Python ,C ,html ,css and mongodb for now :)
+
 
 
 
